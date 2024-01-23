@@ -1,0 +1,42 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+alsa-lib=1.2.7.2=h166bdaf_0
+argon2-cffi=21.1.0=py36h8f6f2f9_0
+async-timeout=3.0.1=pypi_0
+ca-certificates=2023.11.17=hbcca054_0
+charset-normalizer=2.0.12=pypi_0
+font-ttf-dejavu-sans-mono=2.37=hab24e00_0
+font-ttf-inconsolata=3.000=h77eed37_0
+font-ttf-source-code-pro=2.038=h77eed37_0
+font-ttf-ubuntu=0.83=h77eed37_1
+fonts-conda-ecosystem=1=0
+fonts-conda-forge=1=0
+glib-tools=2.78.1=hfc55251_1
+gst-plugins-base=1.20.3=h57caac4_2
+idna-ssl=1.1.0=pypi_0
+importlib-metadata=4.8.3=pypi_0
+importlib-resources=5.4.0=pypi_0
+ld_impl_linux-64=2.40=h41732ed_0
+libgcc-ng=13.2.0=h807b86a_3
+libgfortran-ng=13.2.0=h69a702a_3
+libstdcxx-ng=13.2.0=h7e041cc_3
+libwebp-base=1.3.2=hd590300_0
+matplotlib-base=3.3.4=py36hd391965_0
+mysql-common=8.0.32=h14678bc_0
+mysql-libs=8.0.32=h54cf53e_0
+ndx-events=0.2.0=pypi_0
+nest-asyncio=1.5.8=pyhd8ed1ab_0
+prompt-toolkit=3.0.36=pyha770c72_0
+psycopg2-binary=2.9.8=pypi_0
+pthread-stubs=0.4=h36c2ea0_1001
+pyqt-impl=5.12.3=py36h7ec31b9_7
+pyqt5-sip=4.19.18=py36hc4f0c31_7
+python-dateutil=2.8.2=pyhd8ed1ab_0
+requests-toolbelt=0.10.1=pypi_0
+ruamel-yaml=0.18.3=pypi_0
+ruamel-yaml-clib=0.2.8=pypi_0
+scikit-build=0.16.7=pypi_0
+scikit-image=0.17.2=pypi_0
+xorg-libxau=1.0.11=hd590300_0
+xorg-libxdmcp=1.1.3=h7f98852_0
